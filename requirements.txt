@@ -1,0 +1,4 @@
+psycopg2-binary>=2.9
+
+# Test dependencies:
+pytest>=8.0
